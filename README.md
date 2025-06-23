@@ -14,7 +14,7 @@
 
   
 
-<p align="centre"><img src="https://files.catbox.moe/qg67bk.jpg" width="790" heigh="250"
+<p align="centre"><img src="https://files.catbox.moe/hflcbc.jpg" width="790" heigh="250"
 
 
 
@@ -57,7 +57,7 @@
 
 -----
 
-   - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/bwbxmd/B.M.B-TECH">
+   - <a align="center"><a href="https://website-bmb.vercel.app/">
  <img src="https://img.shields.io/badge/DEPLOY%20HEROKU%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  
  ----------
